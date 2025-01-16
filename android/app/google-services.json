@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727222330578",
+    "project_id": "space-ticketing-system",
+    "storage_bucket": "space-ticketing-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727222330578:android:785832beee42879700390b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727222330578-63maqgr0pl5ev5qq45sf6ce6fnfk3aql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLyEv2LP7rVAp_rqDqYClMZPlFcugQtg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727222330578-63maqgr0pl5ev5qq45sf6ce6fnfk3aql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
